@@ -1,0 +1,35 @@
+{
+	"name": "theme-devpro-hc",
+	"displayName": "Monokai - High Contrast",
+	"icon": "images/devpro.png",
+	"version": "1.1.1",
+	"publisher": "koprodev",
+	"galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/koprodev/vscode-theme-hc.git"
+	},
+	"categories": [
+		"Themes"
+	],
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "DevPro High Contrast",
+				"uiTheme": "hc-black",
+				"path": "./themes/devpro-hc-theme-ver-2020.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "59789bb9-0f13-472e-99dd-f0a8b9045dc2",
+		"publisherId": "5d17d0cf-4f99-4403-861d-5f6d4df72417",
+		"publisherDisplayName": "koprodev"
+	}
+}
