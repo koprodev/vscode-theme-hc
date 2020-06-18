@@ -1,6 +1,6 @@
 # DevPro VS Code Theme
 
-![screenshot](https://raw.githubusercontent.com/koprodev/vscode-theme-hc/master/images/theme-2020.jpg)
+![screenshot](https://github.com/koprodev/vscode-theme-hc/blob/master/theme-2020.jpg)
 
 
 # Tested Languages
